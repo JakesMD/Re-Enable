@@ -1,31 +1,45 @@
 # Re-Enable
-A clean version of the ENABLE words list, designed for family-friendly games and projects.
 
+A clean version of the ENABLE words list, designed for family-friendly games and projects.
+The main word list contains over **172,000 words!**
+
+---
 
 ## What is Re-Enable?
-**Re-Enable** is a publicly available, profanity-free word list. It's a cleaned-up version of the well-known **ENABLE** list, which was created for games like Scrabble and contains over 170,000 words. The original list, however, is not family-friendly. While other clean versions exist (like the one used for Words With Friends), they are not publicly available for use in your own projects.
 
-This repository aims to be the go-to resource for anyone needing a clean, dependable word list for their games, apps, and other projects.
+**Re-Enable** is a public, profanity-free word list. It's a carefully cleaned-up version of the well-known **ENABLE** list, which stands for "Enhanced North American Benchmark LExicon." Originally compiled in the 1990s and released into the public domain, it was a free alternative to official, copyrighted word lists used in games like Scrabble. Because of its origin date, the list may not include many newer words that have entered the English language in the last two decades.
 
+While other clean versions exist, such as the one used for Words With Friends, they aren't publicly available for you to use in your own projects. Re-Enable was created to be the go-to resource for anyone who needs a dependable, family-friendly word list for their games, apps, and other projects.
 
-## Key Features and Principles
+---
+
+## Features and Principles
+
 The main word list is found in `re-enable.txt`.
 
-Because it's based on the ENABLE list, Re-Enable shares its core characteristics:
-- No proper nouns (e.g., names, places).
-- No abbreviations.
-- No words with spaces or hyphens.
+As it's based on the ENABLE list, Re-Enable follows its core rules:
+* No proper nouns (e.g., names, places).
+* No abbreviations.
+* No words with spaces, hyphens, or apostrophes.
 
-Our primary goal is to provide a word list that is unapologetically clean. We've removed words that are strictly profane, but we've taken a more nuanced approach with words that have a double meaning. For example, let's say the word "dog" was considered offensive in some contexts, while still having its original meaning. We would move "dog" to a separate file, as it has a valid, non-offensive use. However, a derivative like "dogier" would be removed entirely because it lacks that dual meaning.
+### Our Policy on Cleanliness
 
-This gives you the choice to include words that have a legitimate, non-offensive meaning, while still ensuring the main list remains free of any potentially problematic content. This and other words that are technically non-offensive but not child-friendly will be stored in a file called `unfiltered.txt` for you to put back yourself if needed.
+With a list this large, mistakes are bound to happen. Some profane words may have been accidentally left in, and some non-profane words may have been removed. We've removed over **400** words, but we've also adopted a nuanced policy to handle complex cases.
 
+* **Strictly profane words** are removed entirely from the list. If a word is only used for its profane meaning, it's out.
+* **Words moved to `unfiltered.txt`** are words that have a valid, non-profane meaning but are often used in a profane or otherwise non-child-friendly way. We made this choice so you can decide for yourself whether to include them in your project.
+* **Non-offensive words with an offensive context** are left in the main list. For example, a word that has a legitimate, everyday meaning but is only offensive in a very specific context is kept.
+
+---
 
 ## How to Contribute
-We believe in free speech and won't remove words that are non-offensive to the vast majority of families. However, no list is perfect. We rely on the community to help us keep it accurate and up-to-date. **The more people who use this list, the cleaner it will get.**
 
-### Suggest a word for removal
-If you find a word that you believe shouldn't be in the list, please open an issue or pull request. **Please do not mention the word in the issue title.** Instead, use a general title like "Suggested word removal." This helps us maintain a clean and respectful issue tracker for everyone.
+We rely on the community to help us keep the list accurate. The more people who use and review this list, the cleaner it will get.
 
-### Suggest a word for addition
-As technology and culture evolve, new words are invented. If you find a word that is missing from the list and follows the core principles (no proper nouns, no abbreviations, no spaces, no hyphens), feel free to open a pull request to add it.
+### Suggesting a word for removal
+
+If you believe a word shouldn't be in the list, please open an issue or pull request. To maintain a clean and respectful issue tracker, please use a general title like "Suggested word removal" and **do not mention the word in the title**.
+
+### Suggesting a word for addition
+
+If you find a word that is missing and follows the core principles of the list, feel free to open an issue to suggest it. This helps us ensure that all additions align with the project's standards.
