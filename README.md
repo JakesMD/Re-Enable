@@ -7,7 +7,7 @@ The main word list contains over **172,000 words!**
 
 ## What is Re-Enable?
 
-**Re-Enable** is a public, profanity-free word list. It's a carefully cleaned-up version of the well-known **ENABLE** list, which stands for "Enhanced North American Benchmark LExicon." Originally compiled in the 1990s and released into the public domain, it was a free alternative to official, copyrighted word lists used in games like Scrabble. Because of its origin date, the list may not include many newer words that have entered the English language in the last two decades.
+**Re-Enable** is a public, profanity-free word list. It's a carefully cleaned-up version of the well-known **ENABLE** list, which stands for "Enhanced North American Benchmark LExicon." Originally compiled in the 1990s as a curated collection of words for Scrabble and other word games, it was a free alternative to official, copyrighted word lists. It is the result of a long process of compilation and review by word-game experts and linguists. Because of its origin date, the list may not include many newer words that have entered the English language in the last two decades.
 
 While other clean versions exist, such as the one used for Words With Friends, they aren't publicly available for you to use in your own projects. Re-Enable was created to be the go-to resource for anyone who needs a dependable, family-friendly word list for their games, apps, and other projects.
 
@@ -21,6 +21,9 @@ As it's based on the ENABLE list, Re-Enable follows its core rules:
 * No proper nouns (e.g., names, places).
 * No abbreviations.
 * No words with spaces, hyphens, or apostrophes.
+* No one-letter words.
+* No words with foreign letters.
+* No obscure or archaic words (words that are no longer in common use or are highly specialized).
 
 ### Our Policy on Cleanliness
 
