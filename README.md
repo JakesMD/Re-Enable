@@ -1,6 +1,6 @@
 # Re-Enable
 
-A clean version of the ENABLE words list, designed for family-friendly games and projects.
+A clean version of the ENABLE word list (or lexicon), designed for family-friendly games and projects.
 The main word list contains over **172,000 words!**
 
 ---
